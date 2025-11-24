@@ -30,7 +30,7 @@ The Ford-Johnson algorithm is an sorting algorithm that combines the benefits of
 ### Quick Start
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone git@github.com:iliamunaev/Ford-Johnson-Algorithm-and-Performance.git
 cd Ford-Johnson-Algorithm-and-Performance
 
 # Compile the project
